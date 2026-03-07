@@ -61,7 +61,7 @@ terminado==0.6
 testpath==0.3.1
 tornado==6.5
 traitlets==4.3.2
-urllib3==2.6.0
+urllib3==2.6.3
 wcwidth==0.1.7
 Werkzeug==3.1.4
 widgetsnbextension==3.0.6
